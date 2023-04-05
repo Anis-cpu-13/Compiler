@@ -1,0 +1,5 @@
+void main()
+{
+bool foo = false;
+int bar = 17 * foo;
+}

@@ -1,0 +1,5 @@
+void main(){
+   while(10){
+    print_str("B o N j O u R\n");
+   }
+}

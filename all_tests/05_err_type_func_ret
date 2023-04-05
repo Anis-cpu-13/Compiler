@@ -1,0 +1,3 @@
+void main(){
+    bool foo = 17 * 3; 
+}
