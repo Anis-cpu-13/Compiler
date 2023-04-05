@@ -3,8 +3,7 @@
 ## Compilation and Testing Instructions
 
 To run the project and generate the assembly code to be executed in SPIM, use the following command:
-
-ocamlbuild test.byte ./tests/<test_name>.test > prog.asm && spim load "prog.asm"
+  ocamlbuild test.byte ./tests/<test_name>.test > prog.asm && spim load "prog.asm"
 
 
 To compile the project, use the following command:
